@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">debil</string>
+    <string name="taptaptap">tap</string>
+    <string name="inc_text_inc">+%d $</string>
+    <string name="text_score_text">%d $</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
